@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zajecia8", "zajecia8\zajecia8.csproj", "{6436E04E-CF4F-4072-9660-F914E8B95DCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6436E04E-CF4F-4072-9660-F914E8B95DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6436E04E-CF4F-4072-9660-F914E8B95DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6436E04E-CF4F-4072-9660-F914E8B95DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6436E04E-CF4F-4072-9660-F914E8B95DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

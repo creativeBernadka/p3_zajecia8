@@ -1,0 +1,14 @@
+/home/bernadka/Documents/studia - II stopien/Programowanie 3/zajecia8/zajecia8/obj/Debug/netcoreapp3.0/zajecia8.csprojAssemblyReference.cache
+/home/bernadka/Documents/studia - II stopien/Programowanie 3/zajecia8/zajecia8/obj/Debug/netcoreapp3.0/zajecia8.AssemblyInfoInputs.cache
+/home/bernadka/Documents/studia - II stopien/Programowanie 3/zajecia8/zajecia8/obj/Debug/netcoreapp3.0/zajecia8.AssemblyInfo.cs
+/home/bernadka/Documents/studia - II stopien/Programowanie 3/zajecia8/zajecia8/bin/Debug/netcoreapp3.0/zajecia8
+/home/bernadka/Documents/studia - II stopien/Programowanie 3/zajecia8/zajecia8/bin/Debug/netcoreapp3.0/zajecia8.deps.json
+/home/bernadka/Documents/studia - II stopien/Programowanie 3/zajecia8/zajecia8/bin/Debug/netcoreapp3.0/zajecia8.runtimeconfig.json
+/home/bernadka/Documents/studia - II stopien/Programowanie 3/zajecia8/zajecia8/bin/Debug/netcoreapp3.0/zajecia8.runtimeconfig.dev.json
+/home/bernadka/Documents/studia - II stopien/Programowanie 3/zajecia8/zajecia8/bin/Debug/netcoreapp3.0/zajecia8.dll
+/home/bernadka/Documents/studia - II stopien/Programowanie 3/zajecia8/zajecia8/bin/Debug/netcoreapp3.0/zajecia8.pdb
+/home/bernadka/Documents/studia - II stopien/Programowanie 3/zajecia8/zajecia8/obj/Debug/netcoreapp3.0/zajecia8.dll
+/home/bernadka/Documents/studia - II stopien/Programowanie 3/zajecia8/zajecia8/obj/Debug/netcoreapp3.0/zajecia8.pdb
+/home/bernadka/Documents/studia - II stopien/Programowanie 3/zajecia8/zajecia8/bin/Debug/netcoreapp3.0/Fare.dll
+/home/bernadka/Documents/studia - II stopien/Programowanie 3/zajecia8/zajecia8/bin/Debug/netcoreapp3.0/RandomDataGenerator.dll
+/home/bernadka/Documents/studia - II stopien/Programowanie 3/zajecia8/zajecia8/obj/Debug/netcoreapp3.0/zajecia8.csproj.CopyComplete

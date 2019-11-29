@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/bernadka/Documents/studia - II stopien/Programowanie 3/zajecia8/zajecia8/zajecia8.csproj": {}
+  },
+  "projects": {
+    "/home/bernadka/Documents/studia - II stopien/Programowanie 3/zajecia8/zajecia8/zajecia8.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/bernadka/Documents/studia - II stopien/Programowanie 3/zajecia8/zajecia8/zajecia8.csproj",
+        "projectName": "zajecia8",
+        "projectPath": "/home/bernadka/Documents/studia - II stopien/Programowanie 3/zajecia8/zajecia8/zajecia8.csproj",
+        "packagesPath": "/home/bernadka/.nuget/packages/",
+        "outputPath": "/home/bernadka/Documents/studia - II stopien/Programowanie 3/zajecia8/zajecia8/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/bernadka/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "RandomDataGenerator.Net": {
+              "target": "Package",
+              "version": "[1.0.11-preview-01, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
